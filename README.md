@@ -18,7 +18,7 @@ FORMULE:
 
 
 ARMORED DAMAGE TYPES:
-100% = no armor, full dmg received
-80% = 20% of dmg ignored
-60% = 40% of dmg ignored
-40% = 60% of dmg ignored
+- 100% = no armor, full dmg received
+- 80% = 20% of dmg ignored
+- 60% = 40% of dmg ignored
+- 40% = 60% of dmg ignored
