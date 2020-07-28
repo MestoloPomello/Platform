@@ -1,3 +1,11 @@
-# Platform
+# Platform checklist
 
-Developed with Unreal Engine 4
+TODO:
+- pause menu functions
+- inventory
+
+
+
+DONE:
++ pause menu handler
++ hud object
