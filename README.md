@@ -22,7 +22,3 @@ ARMORED DAMAGE TYPES:
 - 80% = 20% of dmg ignored
 - 60% = 40% of dmg ignored
 - 40% = 60% of dmg ignored
-
-
-VARS:
-- equippedWeaponType: 0 - fists ; 1 - melee ; 2 - ranged ; [... implement block placement etc.]
