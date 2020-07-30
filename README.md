@@ -22,3 +22,12 @@ ARMORED DAMAGE TYPES:
 - 80% = 20% of dmg ignored
 - 60% = 40% of dmg ignored
 - 40% = 60% of dmg ignored
+
+
+
+ITEM TYPES:
+- 0: empty (fists)
+- 1: melee weapon
+- 2: ranged weapon
+- 3: armor piece
+- 4: placeable block
